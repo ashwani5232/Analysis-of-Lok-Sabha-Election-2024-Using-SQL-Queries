@@ -1,0 +1,1 @@
+# Analysis-of-Lok-Sabha-Election-2024-Using-SQL-Queries
